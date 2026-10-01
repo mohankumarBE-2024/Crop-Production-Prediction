@@ -1,4 +1,4 @@
-# Mini-Project-3: Predicting Crop Production Based on Agricultural Data
+# Predicting Crop Production Based on Agricultural Data
 
 ## Overview
 This project focuses on predicting crop production (in tons) for different regions and years based on historical agricultural data. The data includes features like Area, Item (crop type), Area Harvested, and Year. The primary goal is to provide a tool that helps estimate future crop production using machine learning models and interactive dashboards.
